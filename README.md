@@ -7,7 +7,3 @@ Using the public Pokemon API (https://pokeapi.co/api/v2), we want to retrieve po
 - since having all Pokemon in a flat list is not that exciting we want to have them grouped based on their height or types (since Pokemon can have multiple types they would appear in multiple groups).
 
 - additionally we want the ability to toggle between the two grouping criteria by clicking a button
-
-## More stuff
-
-- clicking on a Pokemon removes it from the list
